@@ -48,7 +48,6 @@ table {
 	border-spacing: 0;
 }
 
-
 .artcle-wrap{
     width: 1000px;
     margin:0 auto;
@@ -56,4 +55,10 @@ table {
 
 .profileArea img{
 	width: 270px;
+}
+
+.skillArea{
+	display: -webkit-flex;
+	display: flex;
+	flex-wrap: wrap;
 }
