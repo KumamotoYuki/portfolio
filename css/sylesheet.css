@@ -53,6 +53,12 @@ table {
     margin:0 auto;
 }
 
+.profileArea{
+	width: 500PX;
+	margin: 0 auto;
+	
+}
+
 .profileArea img{
 	width: 270px;
 }
@@ -65,4 +71,6 @@ table {
 
 .skillArea .skill{
 	width: 33.3%;
+	word-wrap: break-word;
+
 }
