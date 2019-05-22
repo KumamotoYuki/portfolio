@@ -62,3 +62,7 @@ table {
 	display: flex;
 	flex-wrap: wrap;
 }
+
+.skillArea .skill{
+	width: 33.3%;
+}
