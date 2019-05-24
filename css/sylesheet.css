@@ -73,7 +73,7 @@ article {
 .artcle-wrap{
     width: 1000px;
 	margin:0 auto;	
-    padding-top: 45px;
+    padding: 45px 10px;
 }
 
 .profileArea{
