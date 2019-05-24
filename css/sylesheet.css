@@ -83,6 +83,8 @@ table {
 .headerArea a{
 	color: white;
 	text-decoration: none;
+	display: block;
+	width: 16.6%;
 }
 
 .headerArea{
