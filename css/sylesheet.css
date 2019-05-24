@@ -72,7 +72,8 @@ article {
 }
 .artcle-wrap{
     width: 1000px;
-	margin:0 auto;
+	margin:0 auto;	
+    padding-top: 45px;
 }
 
 .profileArea{
@@ -111,6 +112,10 @@ article {
 	height: 45px;
 	color: white;
 	background: rgba(45,45,45,0.98);
+	position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10000;
 }
 
 nav ul{
