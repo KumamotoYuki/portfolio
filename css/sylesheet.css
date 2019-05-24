@@ -151,10 +151,17 @@ h2{
 
 .blockImg{
 	text-align:center;
+    margin-bottom: 10px;
 }
 .blockText{
 	width: 300px;
 	margin: 0 auto;
+}
+
+.blockImg img {
+    object-fit: contain;
+    width: 190px;
+    height: 200px;
 }
 
 footer{
