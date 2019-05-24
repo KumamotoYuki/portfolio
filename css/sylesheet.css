@@ -82,13 +82,13 @@ table {
 
 .headerArea a{
 	color: white;
-	background: rgba(45,45,45,0.98);
 
 }
 
-nav{
+.headerArea{
 	height: 45px;
 	color: white;
+	background: rgba(45,45,45,0.98);
 }
 
 nav ul{
