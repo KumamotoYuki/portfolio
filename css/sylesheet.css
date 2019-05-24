@@ -102,11 +102,11 @@ table {
 }
 
 nav ul{
-	display: -webkit-flex;
-	display: flex;
-	flex-wrap: wrap;
 	width: 1000px;
 	
 }
-nav ul li a{
+.headerAreaInner{
+	display: -webkit-flex;
+	display: flex;
+	flex-wrap: wrap;
 }
