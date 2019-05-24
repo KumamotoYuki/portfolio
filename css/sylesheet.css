@@ -82,13 +82,13 @@ table {
 
 .headerArea h1{
 	display: inline;
-	width: auto;
+	width: 16.6%;
 }
 
 .headerArea a{
 	color: white;
 	text-decoration: none;
-	width: auto;
+	width: 16.6%;
     line-height: 3.1em;
 }
 
