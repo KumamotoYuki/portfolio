@@ -80,13 +80,18 @@ table {
 
 .headerArea a{
 	color: white;
+	background: rgba(45,45,45,0.98);
+
 }
 
 nav{
 	height: 45px;
+	color: white;
+}
+
+nav ul{
 	display: -webkit-flex;
 	display: flex;
 	flex-wrap: wrap;
-	background: rgba(45,45,45,0.98);
-	color: white;
+	
 }
