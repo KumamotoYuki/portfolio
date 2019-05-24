@@ -31,7 +31,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
-	font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic'  ;
+	font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic';
 }
 ol, ul {
 	list-style: none;
@@ -109,4 +109,10 @@ nav ul li{
 	font-size: 14px;
 	text-align: center;
     line-height: 3.5em;
+}
+
+.profileArea{
+	display: -webkit-flex;
+	display: flex;
+	flex-wrap: wrap;
 }
