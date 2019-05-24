@@ -85,19 +85,17 @@ article {
 	width: 270px;
 }
 
-.skillArea{
+.blockArea{
 	display: -webkit-flex;
 	display: flex;
 	flex-wrap: wrap;
 }
 
-.skillArea .skill{
+.blockArea .block{
 	width: 33.3%;
 	word-wrap: break-word;	
     margin-bottom: 20px;
 }
-
-
 
 .headerArea .headerAreaInner nav ul li a{
 	color: white;
@@ -146,9 +144,10 @@ h2{
 	padding-top: 30px;
 }
 
-.skillImg{
+.blockImg{
 	text-align:center;
 }
-.skillText{
-	width: 50%;
+.blockText{
+	width: 300px;
+	margin: 0 auto;
 }
