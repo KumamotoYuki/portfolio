@@ -125,10 +125,8 @@ nav ul li{
     line-height: 3.5em;
 }
 
-.profileArea{
-}
 
-.profileImg,profileText{
+.profileImg, .profileText{
 	float: left;
 	width: 100%;
 
