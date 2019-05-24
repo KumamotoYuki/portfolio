@@ -114,5 +114,5 @@ nav ul li{
 .profileArea{
 	display: -webkit-flex;
 	display: flex;
-	flex-wrap: wrap;
+	width: 100%;
 }
