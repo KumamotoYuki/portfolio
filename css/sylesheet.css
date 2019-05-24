@@ -74,3 +74,12 @@ table {
 	word-wrap: break-word;
 
 }
+
+.headerArea{
+	height: 45px;
+	display: -webkit-flex;
+	display: flex;
+	flex-wrap: wrap;
+	background: rgba(45,45,45,0.98);
+	color: white;
+}
