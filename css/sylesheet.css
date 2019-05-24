@@ -85,7 +85,10 @@ table {
 	color: white;
 	text-decoration: none;
 	display: block;
-	width: 16.6%;
+}
+
+.headerArea a:hover{
+	opacity: 0.5;
 }
 
 .headerArea{
