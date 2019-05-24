@@ -48,9 +48,12 @@ table {
 	border-spacing: 0;
 }
 
-.artcle-wrap{
+.headerAreaInner{
     width: 1000px;
     margin:0 auto;
+
+}
+.artcle-wrap{
 }
 
 .profileArea{
@@ -75,7 +78,11 @@ table {
 
 }
 
-.headerArea{
+.headerArea a{
+	color: white;
+}
+
+nav{
 	height: 45px;
 	display: -webkit-flex;
 	display: flex;
