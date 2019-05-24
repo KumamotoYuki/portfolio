@@ -99,13 +99,13 @@ article {
 
 }
 
-.headerArea a{
+.headerArea .headerAreaInner nav ul li a{
 	color: white;
 	text-decoration: none;
 	display: block;
 }
 
-.headerArea a:hover{
+.headerArea .headerAreaInner nav ul li a:hover{
 	opacity: 0.5;
 }
 
