@@ -93,7 +93,9 @@ article {
 
 .skillArea .skill{
 	width: 33.3%;
-	word-wrap: break-word;
+	word-wrap: break-word;	
+    margin-bottom: 20px;
+}
 
 }
 
@@ -140,7 +142,7 @@ nav ul li{
 h2{
 	border-bottom: solid 3px rgba(45,45,45,0.98);
     font-size: 200%;
-	margin-top: 30px;
+	margin-bottom: 30px;
 	padding-top: 30px;
 }
 
