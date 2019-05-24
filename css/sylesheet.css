@@ -82,7 +82,9 @@ table {
 
 .headerArea a{
 	color: white;
-
+	width: 16.6%;
+	text-decoration: none;
+	font-size: 14px;
 }
 
 .headerArea{
@@ -95,5 +97,10 @@ nav ul{
 	display: -webkit-flex;
 	display: flex;
 	flex-wrap: wrap;
+	width: 1000px;
 	
+}
+nav ul li{
+	width: 16.6%;
+    text-align: center;
 }
