@@ -80,14 +80,22 @@ table {
 
 }
 
+.headerArea h1{
+	display: inline;
+	width: auto;
+}
+
 .headerArea a{
 	color: white;
-	width: 16.6%;
 	text-decoration: none;
-	font-size: 14px;
+	width: auto;
+    line-height: 3.1em;
 }
 
 .headerArea{
+	text-align: center;
+	font-size: 14px;
+	color: white;
 	height: 45px;
 	color: white;
 	background: rgba(45,45,45,0.98);
@@ -100,7 +108,5 @@ nav ul{
 	width: 1000px;
 	
 }
-nav ul li{
-	width: 16.6%;
-    text-align: center;
+nav ul li a{
 }
